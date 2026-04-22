@@ -1,5 +1,5 @@
-STEPS TO RUN PROJECT
-CD IMBD-CLONE
-npm i or npm install
+🚀 Steps to Run the Project (React + Vite)
+
+cd IMDB-CLONE
+npm install
 npm run dev
-React + Vite
